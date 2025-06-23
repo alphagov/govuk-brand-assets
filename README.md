@@ -19,9 +19,9 @@ All logo versions are available in Adobe Illustrator (`.ai`), Encapsulated PostS
 ### [Lockup](Logo/Lockup)
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="Logo/Lockup/Large/Primary%20White/Web_Wordmark_PrimaryWhite.svg">
-  <source media="(prefers-color-scheme: light)" srcset="Logo/Lockup/Large/Primary%20Black/Web_Wordmark_PrimaryBlack.svg">
-  <img alt="Lockup" src="Logo/Lockup/Large/Primary Black/Web_Wordmark_PrimaryBlack.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="Logo/Lockup/Primary%20White/Web_Wordmark_PrimaryWhite.svg">
+  <source media="(prefers-color-scheme: light)" srcset="Logo/Lockup/Primary%20Black/Web_Wordmark_PrimaryBlack.svg">
+  <img alt="Lockup" src="Logo/Lockup/Primary Black/Web_Wordmark_PrimaryBlack.svg">
 </picture>
 
 ### [Wordmark](Logo/Wordmark)
