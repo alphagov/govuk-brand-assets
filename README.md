@@ -13,7 +13,7 @@ All logo versions are available in Adobe Illustrator (`.ai`), Encapsulated PostS
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="Logo/Wordmark/Primary%20White/Wordmark_PrimaryWhite.svg">
   <source media="(prefers-color-scheme: light)" srcset="Logo/Wordmark/Primary%20Black/Wordmark_PrimaryBlack.svg">
-  <img alt="Wordmark" src="Logo/Wordmark/Primary Black/Wordmark_PrimaryBlack.svg">
+  <img alt="Wordmark" src="Logo/Wordmark/Primary Black/Wordmark_PrimaryBlack.svg" height="150">
 </picture>
 
 ### [Crown](Logo/Crown)
@@ -21,7 +21,7 @@ All logo versions are available in Adobe Illustrator (`.ai`), Encapsulated PostS
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="Logo/Crown/White/Crown_White.svg">
   <source media="(prefers-color-scheme: light)" srcset="Logo/Crown/Black/Crown_Black.svg">
-  <img alt="Crown" src="Logo/Crown/Black/Crown_Black.svg">
+  <img alt="Crown" src="Logo/Crown/Black/Crown_Black.svg" height="150">
 </picture>
 
 ### [Lockup](Logo/Lockup)
@@ -29,6 +29,6 @@ All logo versions are available in Adobe Illustrator (`.ai`), Encapsulated PostS
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="Logo/Lockup/Primary%20White/Web_Wordmark_PrimaryWhite.svg">
   <source media="(prefers-color-scheme: light)" srcset="Logo/Lockup/Primary%20Black/Web_Wordmark_PrimaryBlack.svg">
-  <img alt="Lockup" src="Logo/Lockup/Primary Black/Web_Wordmark_PrimaryBlack.svg">
+  <img alt="Lockup" src="Logo/Lockup/Primary Black/Web_Wordmark_PrimaryBlack.svg" height="150">
 </picture>
 
