@@ -1,5 +1,7 @@
 # GOV.UK Brand Assets
 
+[Download these assets as a zip file](https://github.com/alphagov/govuk-brand-assets/archive/refs/heads/main.zip)
+
 ## Colour Swatches
 
 The colour palette is included as a Adobe Swatch Exchange (`.ase`) file.
