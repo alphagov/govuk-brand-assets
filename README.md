@@ -1,5 +1,7 @@
 # GOV.UK Brand Assets
 
+[Read the brand guidelines on GOV.UK](http://www.gov.uk/government/publications/govuk-brand-guidelines)
+
 [Download these assets as a zip file](https://github.com/alphagov/govuk-brand-assets/archive/refs/heads/main.zip)
 
 ## Colour Swatches
@@ -34,3 +36,10 @@ All logo versions are available in Adobe Illustrator (`.ai`), Encapsulated PostS
   <img alt="Lockup" src="Logo/Lock-up/Primary%20Black/Lock-up_PrimaryBlack.svg" height="150">
 </picture>
 
+## Support
+
+For support with these assets please contact the team on govuk-brand-team@dsit.gov.uk.
+
+## Licence
+
+Copyright (c) 2025 Crown Copyright (Government Digital Service). All rights reserved.
