@@ -28,7 +28,7 @@ All logo versions are available in Adobe Illustrator (`.ai`), Encapsulated PostS
   <img alt="Crown" src="Logo/Crown/Black/Crown_Black.svg" height="150">
 </picture>
 
-### [Lockup](Logo/Lockup)
+### [Lock-up](Logo/Lock-up)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="Logo/Lock-up/Primary%20White/Lock-up_PrimaryWhite.svg">
